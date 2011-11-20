@@ -1,0 +1,1309 @@
+0.1
+#
+4 Use SHIFT to fire... 
+1 3000
+4 Level begin
+1 1000
+5 outpost1 0 0 0 -1 1 0 
+5 arabe 0 25 0 -1 7 0 
+5 stone01 0 38 0 -1 2 0 
+5 future02 0 49 0 -1 3 0 
+5 outside 0 67 0 -1 4 0 
+0 stone2 0 57 -5 3 -5 3 2 8 laser mod5
+0 planer7 0 69 -1 5 -1 5 0 0 coke mod2
+0 heavy 2 42 2 -2 2 -2 2 1 laser mod4
+0 planer5 1 57 1 -5 1 -5 6 0 coke mod1
+0 stone3 2 47 5 -1 5 -1 0 4 coke mod0
+0 stone1 0 52 -1 1 -1 1 9 0 plasma mod4
+0 truck1 1 47 2 5 2 5 2 4 fire mod6
+0 redcar01 1 65 1 -4 1 -4 5 9 coke mod1
+0 stone2 2 21 4 -2 4 -2 5 7 fireball mod4
+0 redcar01 3 42 -1 4 -1 4 4 2 laser mod2
+6 knife mod0 3 34 -1 4 -1 4 5 4 
+7 energy 2 47 5 -1 5 -1 1 7 
+1 1000
+5 future01 0 2 0 -1 8 1 
+5 stone01 0 40 0 -1 4 1 
+1 1000
+5 arabe 0 7 0 -1 4 0 
+1 1000
+5 arabe 0 3 0 -1 4 1 
+1 1000
+1 1000
+5 marte01 0 7 0 -1 7 0 
+1 1000
+5 marte01 0 3 0 -1 5 0 
+1 1000
+5 arabe 0 0 0 -1 3 0 
+1 1000
+1 1000
+1 1000
+5 future01 0 8 0 -1 3 0 
+5 stones01 0 45 0 -1 8 0 
+1 1000
+4 invasion 0
+5 stones01 0 6 0 -1 3 0 
+5 future01 0 16 0 -1 4 0 
+5 tank01 0 38 0 -1 9 0 
+5 outpost1 0 50 0 -1 7 1 
+5 outpost1 0 64 0 -1 2 1 
+0 little 3 65 -5 -1 -5 -1 3 8 bird mod4
+0 planer3 1 70 2 -1 2 -1 3 5 knife mod2
+0 stone7 0 52 -1 3 -1 3 5 3 bird mod1
+0 dragon03 0 37 2 1 2 1 2 4 missil mod3
+0 planer1 2 56 -2 -5 -2 -5 10 0 laser mod6
+0 stone2 3 54 -2 -3 -2 -3 10 5 bird mod5
+0 planer7 3 57 -2 -5 -2 -5 2 0 knife mod1
+0 stone6 0 31 5 1 5 1 8 0 bird mod0
+0 planer4 1 68 1 -4 1 -4 8 4 laser mod6
+6 knife mod0 1 69 3 -5 3 -5 10 2 
+1 1000
+5 stones01 0 5 0 -1 7 0 
+1 1000
+1 1000
+1 1000
+5 future02 0 9 0 -1 3 0 
+1 1000
+5 stone01 0 3 0 -1 5 0 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+4 invasion 1
+5 outside 0 9 0 -1 8 0 
+5 stone02 0 17 0 -1 2 0 
+5 future01 0 40 0 -1 7 1 
+5 stone01 0 57 0 -1 4 0 
+5 outside 0 65 0 -1 8 0 
+0 lspace01 1 49 4 5 4 5 0 8 laser mod5
+0 stone6 3 29 -2 2 -2 2 3 4 bird mod6
+0 stone7 0 77 -3 4 -3 4 9 1 cannon mod4
+0 planer5 1 64 2 -4 2 -4 4 2 coke mod2
+0 stone6 3 46 -4 3 -4 3 2 6 plasma mod5
+0 threefly 0 27 5 1 5 1 4 5 coke mod2
+0 heavy 3 23 -5 3 -5 3 7 2 knife mod0
+0 space001 0 44 4 2 4 2 7 2 coke mod6
+0 little 3 20 -1 5 -1 5 6 8 missil mod4
+0 lspace01 3 23 -3 1 -3 1 8 6 fire mod0
+1 1000
+1 1000
+5 marte01 0 6 0 -1 5 0 
+5 arabe 0 45 0 -1 8 0 
+1 1000
+5 outside 0 7 0 -1 8 0 
+1 1000
+1 1000
+5 marte01 0 9 0 -1 9 0 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+4 invasion 2
+5 tank01 0 7 0 -1 3 1 
+5 outside 0 16 0 -1 8 0 
+5 marte01 0 33 0 -1 2 0 
+5 relic 0 49 0 -1 6 0 
+5 relic 0 64 0 -1 6 0 
+0 gunship5 2 32 4 -5 4 -5 10 6 missil mod6
+0 lspace01 3 63 -2 -5 -2 -5 0 3 missil mod5
+0 stone2 0 72 -3 3 -3 3 3 3 missil mod0
+0 stone5 0 56 -2 1 -2 1 3 3 cannon mod3
+0 stone6 3 65 -5 -5 -5 -5 1 6 fireball mod5
+0 dragon03 1 58 2 -5 2 -5 8 9 knife mod1
+0 gunship4 3 37 -4 3 -4 3 2 9 plasma mod3
+0 stone3 0 58 -3 2 -3 2 6 5 coke mod4
+0 truck1 3 62 -5 -2 -5 -2 1 7 laser mod3
+0 dragon03 2 37 1 -3 1 -3 9 8 fireball mod2
+1 1000
+5 arabe 0 6 0 -1 7 1 
+1 1000
+5 relic 0 8 0 -1 9 1 
+1 1000
+1 1000
+1 1000
+1 1000
+5 marte01 0 8 0 -1 1 0 
+1 1000
+5 stones01 0 7 0 -1 7 0 
+1 1000
+5 stone01 0 9 0 -1 6 0 
+1 1000
+1 1000
+5 future02 0 3 0 -1 5 0 
+1 1000
+4 invasion 3
+5 future02 0 4 0 -1 9 1 
+5 relic 0 20 0 -1 1 0 
+5 future02 0 36 0 -1 5 0 
+5 stone02 0 57 0 -1 2 0 
+5 future02 0 70 0 -1 4 0 
+0 dragon03 1 68 2 -1 2 -1 9 2 laser mod0
+0 truck1 3 42 -1 2 -1 2 3 6 knife mod4
+0 gunship5 1 72 2 -1 2 -1 7 1 fireball mod0
+0 gunship4 2 44 4 -3 4 -3 6 7 fireball mod6
+0 stone1 3 39 -4 4 -4 4 0 7 bird mod4
+0 gunship2 1 35 5 1 5 1 7 3 fireball mod2
+0 rocket 0 58 -3 4 -3 4 8 4 laser mod6
+0 gunship4 1 22 5 3 5 3 10 9 laser mod0
+0 gunship2 0 77 -1 4 -1 4 4 5 bird mod5
+0 gunship3 2 60 -2 -4 -2 -4 10 6 laser mod2
+7 money2 2 65 -2 -1 -2 -1 8 4 
+1 1000
+5 outpost1 0 5 0 -1 8 0 
+1 1000
+1 1000
+1 1000
+1 1000
+5 tank01 0 48 0 -1 7 0 
+1 1000
+5 stone02 0 4 0 -1 4 0 
+1 1000
+1 1000
+1 1000
+5 arabe 0 4 0 -1 2 0 
+5 tank01 0 45 0 -1 1 0 
+1 1000
+5 future02 0 2 0 -1 9 0 
+5 future01 0 44 0 -1 9 0 
+1 1000
+4 invasion 4
+5 stones01 0 5 0 -1 3 0 
+5 outside 0 23 0 -1 1 1 
+5 badhouse 0 41 0 -1 7 0 
+5 future01 0 51 0 -1 8 0 
+5 relic 0 71 0 -1 3 1 
+0 gunship4 1 29 1 1 1 1 10 2 laser mod6
+0 planer6 3 50 -2 5 -2 5 2 7 missil mod2
+0 stone6 3 36 -1 5 -1 5 3 4 fire mod0
+0 stone3 3 42 -5 5 -5 5 8 3 plasma mod6
+0 gunship2 0 22 5 2 5 2 4 1 plasma mod5
+0 threefly 0 53 -3 3 -3 3 1 9 fireball mod3
+0 gunship1 2 42 3 -5 3 -5 5 0 fireball mod0
+0 threefly 3 46 -4 4 -4 4 6 6 bird mod0
+0 dragon03 2 33 4 -4 4 -4 9 9 laser mod5
+0 stone2 1 57 3 -1 3 -1 0 8 fire mod0
+6 knife mod0 0 67 -1 4 -1 4 2 8 
+7 energy 3 61 -1 -1 -1 -1 9 7 
+1 1000
+1 1000
+5 stone02 0 6 0 -1 6 0 
+1 1000
+5 tank01 0 5 0 -1 8 0 
+1 1000
+1 1000
+1 1000
+5 future01 0 6 0 -1 9 1 
+1 1000
+5 stones01 0 2 0 -1 5 0 
+1 1000
+1 1000
+5 arabe 0 48 0 -1 9 0 
+1 1000
+1 1000
+4 invasion 5
+5 badhouse 0 7 0 -1 4 0 
+5 badhouse 0 23 0 -1 7 0 
+5 arabe 0 34 0 -1 1 1 
+5 stones01 0 52 0 -1 9 0 
+5 badhouse 0 71 0 -1 7 0 
+0 gdragon2 2 45 1 -4 1 -4 10 4 fire mod5
+0 lwing 3 58 -3 -3 -3 -3 8 5 plasma mod6
+0 planer1 3 62 -2 -2 -2 -2 1 0 cannon mod1
+0 planer7 1 28 2 1 2 1 10 1 missil mod3
+0 stone7 1 54 4 -2 4 -2 0 0 cannon mod4
+0 gunship5 3 38 -1 3 -1 3 6 2 knife mod2
+0 gunship3 3 39 -5 2 -5 2 10 2 laser mod6
+0 lwing 3 44 -2 2 -2 2 9 9 bird mod5
+0 planer6 2 57 -3 -4 -3 -4 1 4 fire mod0
+0 planer4 0 37 1 1 1 1 7 4 laser mod5
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 tank01 0 4 0 -1 4 0 
+1 1000
+1 1000
+1 1000
+1 1000
+5 marte01 0 7 0 -1 9 0 
+5 relic 0 42 0 -1 6 1 
+1 1000
+5 future02 0 7 0 -1 1 0 
+5 stones01 0 41 0 -1 8 0 
+1 1000
+4 invasion 6
+5 badhouse 0 9 0 -1 7 1 
+5 future02 0 19 0 -1 9 0 
+5 arabe 0 38 0 -1 6 0 
+5 badhouse 0 55 0 -1 9 0 
+5 outside 0 66 0 -1 8 0 
+0 dragon02 3 64 -3 -2 -3 -2 2 9 fireball mod0
+0 gunship1 1 30 2 1 2 1 10 3 fire mod3
+0 gunship4 3 51 -4 -5 -4 -5 9 5 knife mod5
+0 dragon03 1 59 3 -4 3 -4 5 4 laser mod3
+0 threefly 3 59 -5 -5 -5 -5 10 2 cannon mod6
+0 threefly 1 37 4 3 4 3 7 6 fireball mod4
+0 gunship5 1 41 1 1 1 1 1 0 laser mod3
+0 truck1 1 30 4 4 4 4 8 3 cannon mod3
+0 stone4 0 38 2 1 2 1 9 6 missil mod3
+0 planer7 3 78 -3 -5 -3 -5 2 2 plasma mod0
+6 plasma mod0 3 28 -5 2 -5 2 3 8 
+1 1000
+1 1000
+1 1000
+1 1000
+5 future02 0 5 0 -1 5 1 
+1 1000
+1 1000
+1 1000
+1 1000
+5 outside 0 49 0 -1 1 0 
+1 1000
+5 future01 0 9 0 -1 1 0 
+1 1000
+1 1000
+4 invasion 7
+5 stones01 0 7 0 -1 3 0 
+5 stone01 0 16 0 -1 6 0 
+5 stone01 0 41 0 -1 7 0 
+5 arabe 0 56 0 -1 8 0 
+5 arabe 0 67 0 -1 5 0 
+0 stone7 0 32 4 1 4 1 3 4 missil mod1
+0 dragon01 2 53 -2 -4 -2 -4 2 1 laser mod3
+0 stone3 0 60 -4 1 -4 1 9 6 coke mod0
+0 little 0 70 -5 5 -5 5 9 3 laser mod6
+0 redcar01 3 43 -5 2 -5 2 4 0 laser mod6
+0 planer5 3 63 -1 -3 -1 -3 6 5 laser mod2
+0 stone6 0 35 2 1 2 1 4 0 laser mod6
+0 little 0 41 2 3 2 3 7 7 laser mod1
+0 space001 0 42 1 5 1 5 3 4 laser mod6
+0 stone3 0 71 -5 3 -5 3 1 1 coke mod3
+6 laser mod0 1 20 3 3 3 3 7 4 
+7 energy2 1 70 5 -4 5 -4 4 5 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 stone01 0 46 0 -1 8 0 
+1 1000
+5 outside 0 43 0 -1 2 0 
+1 1000
+5 stone01 0 0 0 -1 6 1 
+1 1000
+5 future02 0 7 0 -1 8 0 
+1 1000
+5 stones01 0 0 0 -1 9 1 
+1 1000
+5 future01 0 2 0 -1 4 0 
+1 1000
+4 invasion 8
+5 relic 0 7 0 -1 5 1 
+5 marte01 0 19 0 -1 4 0 
+5 arabe 0 39 0 -1 2 0 
+5 stone02 0 52 0 -1 2 0 
+5 outside 0 69 0 -1 6 0 
+0 stone6 3 52 -3 -4 -3 -4 3 3 missil mod4
+0 dragon02 3 47 -3 5 -3 5 1 6 cannon mod3
+0 stone3 2 31 1 -4 1 -4 6 8 knife mod4
+0 planer4 1 73 5 -4 5 -4 10 6 bird mod1
+0 planer2 1 61 4 -3 4 -3 6 4 laser mod1
+0 planer6 1 70 5 -4 5 -4 10 2 missil mod2
+0 planer6 3 48 -2 4 -2 4 6 6 laser mod3
+0 gdragon1 2 79 -2 -1 -2 -1 0 1 coke mod0
+0 stone5 1 64 5 -3 5 -3 0 5 fire mod4
+0 little 0 41 4 5 4 5 0 1 knife mod4
+6 laser mod0 3 52 -5 -5 -5 -5 8 3 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 outpost1 0 3 0 -1 8 0 
+1 1000
+5 relic 0 8 0 -1 1 0 
+1 1000
+5 outside 0 4 0 -1 5 0 
+1 1000
+1 1000
+5 arabe 0 6 0 -1 9 0 
+1 1000
+5 future02 0 7 0 -1 6 0 
+1 1000
+4 invasion 9
+5 stones01 0 6 0 -1 6 0 
+5 arabe 0 16 0 -1 7 0 
+5 badhouse 0 33 0 -1 7 0 
+5 outside 0 49 0 -1 6 0 
+5 outpost1 0 66 0 -1 7 0 
+0 little 2 72 -4 -3 -4 -3 1 4 plasma mod4
+0 dragon03 1 25 1 2 1 2 3 2 laser mod1
+0 gdragon1 0 66 -5 3 -5 3 5 7 laser mod1
+0 gunship1 3 39 -2 3 -2 3 5 4 knife mod3
+0 heavy 0 47 3 1 3 1 2 3 knife mod5
+0 stone1 3 56 -4 -3 -4 -3 7 1 laser mod5
+0 space001 1 39 2 3 2 3 5 1 fireball mod0
+0 planer7 2 32 4 -2 4 -2 7 0 laser mod3
+0 stone1 0 51 -5 1 -5 1 2 6 laser mod3
+0 bugz 1 44 4 3 4 3 6 9 bird mod2
+1 1000
+5 stone01 0 2 0 -1 5 0 
+1 1000
+1 1000
+5 tank01 0 49 0 -1 4 0 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 stone01 0 9 0 -1 1 0 
+1 1000
+1 1000
+5 badhouse 0 3 0 -1 8 0 
+1 1000
+4 invasion 10
+5 outpost1 0 0 0 -1 1 0 
+5 future02 0 16 0 -1 1 0 
+5 relic 0 33 0 -1 8 0 
+5 outside 0 53 0 -1 2 0 
+5 future01 0 64 0 -1 1 1 
+0 truck1 2 54 -3 -3 -3 -3 7 7 knife mod1
+0 lspace01 3 74 -1 -5 -1 -5 4 4 laser mod2
+0 threefly 0 25 1 4 1 4 1 5 missil mod1
+0 truck1 0 27 5 4 5 4 6 6 fireball mod3
+0 gunship3 0 46 3 4 3 4 9 4 laser mod5
+0 planer7 0 42 5 2 5 2 5 6 laser mod2
+0 planer7 3 23 -3 5 -3 5 4 1 fireball mod3
+0 gunship2 2 49 2 -5 2 -5 10 7 fireball mod5
+0 redcar01 0 78 -4 2 -4 2 4 3 missil mod6
+0 stone5 0 39 2 4 2 4 3 4 missil mod4
+6 bird mod0 2 59 -2 -3 -2 -3 7 4 
+1 1000
+5 stones01 0 2 0 -1 5 0 
+1 1000
+5 future02 0 8 0 -1 2 0 
+1 1000
+1 1000
+5 stone02 0 45 0 -1 9 0 
+1 1000
+1 1000
+5 future02 0 44 0 -1 5 0 
+1 1000
+1 1000
+5 outpost1 0 5 0 -1 2 0 
+5 future02 0 41 0 -1 3 0 
+1 1000
+5 stone01 0 6 0 -1 8 0 
+5 stones01 0 46 0 -1 3 1 
+1 1000
+5 arabe 0 1 0 -1 7 0 
+1 1000
+4 invasion 11
+5 stone01 0 1 0 -1 6 0 
+5 stone01 0 17 0 -1 9 1 
+5 arabe 0 33 0 -1 3 1 
+5 outpost1 0 51 0 -1 6 0 
+5 stone01 0 70 0 -1 3 0 
+0 gunship3 1 56 4 -1 4 -1 1 5 plasma mod2
+0 planer6 0 79 -2 4 -2 4 0 5 missil mod5
+0 heavy 2 30 5 -2 5 -2 4 2 coke mod1
+0 gdragon1 1 61 3 -5 3 -5 8 0 laser mod1
+0 gdragon2 1 69 4 -1 4 -1 2 1 cannon mod4
+0 planer6 3 64 -3 -2 -3 -2 0 8 laser mod5
+0 dragon02 0 53 -5 5 -5 5 10 0 coke mod2
+0 planer1 2 58 -4 -4 -4 -4 2 0 missil mod0
+0 lspace01 1 39 2 5 2 5 9 0 bird mod1
+0 stone1 2 46 2 -2 2 -2 0 5 plasma mod2
+7 energy2 0 28 2 2 2 2 1 8 
+1 1000
+5 outpost1 0 9 0 -1 4 0 
+1 1000
+1 1000
+5 stones01 0 1 0 -1 7 1 
+5 tank01 0 47 0 -1 2 0 
+1 1000
+5 relic 0 4 0 -1 1 0 
+5 marte01 0 45 0 -1 7 0 
+1 1000
+1 1000
+5 relic 0 4 0 -1 6 0 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+4 invasion 12
+5 stone01 0 5 0 -1 1 1 
+5 arabe 0 22 0 -1 2 0 
+5 marte01 0 41 0 -1 4 0 
+5 future01 0 53 0 -1 6 0 
+5 future01 0 65 0 -1 1 0 
+0 heavy 3 49 -4 4 -4 4 2 9 fire mod5
+0 threefly 3 68 -2 -5 -2 -5 5 1 plasma mod2
+0 stone6 0 55 -1 4 -1 4 4 9 plasma mod4
+0 threefly 0 62 -5 4 -5 4 1 0 coke mod5
+0 stone6 3 54 -4 -4 -4 -4 3 2 fireball mod6
+0 stone3 3 38 -2 2 -2 2 9 7 plasma mod6
+0 gunship5 1 48 5 2 5 2 1 7 laser mod2
+0 dragon03 1 69 1 -5 1 -5 8 6 laser mod0
+0 bugz 3 76 -2 -2 -2 -2 5 7 missil mod5
+0 stone2 0 35 3 1 3 1 6 1 fire mod1
+6 knife mod0 0 53 -4 2 -4 2 3 6 
+1 1000
+5 stone02 0 42 0 -1 3 0 
+1 1000
+1 1000
+1 1000
+1 1000
+5 outpost1 0 45 0 -1 8 0 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+4 invasion 13
+5 stones01 0 3 0 -1 2 0 
+5 relic 0 18 0 -1 9 0 
+5 stone01 0 40 0 -1 2 0 
+5 stone01 0 52 0 -1 1 0 
+5 tank01 0 72 0 -1 5 0 
+0 truck1 1 21 4 2 4 2 5 8 plasma mod1
+0 threefly 0 58 -5 5 -5 5 4 9 laser mod1
+0 planer4 0 74 -5 1 -5 1 6 4 fireball mod1
+0 stone2 1 58 5 -3 5 -3 8 3 bird mod1
+0 stone5 0 63 -4 1 -4 1 8 5 bird mod4
+0 gunship2 2 20 5 -3 5 -3 10 5 fireball mod0
+0 stone5 0 72 -5 3 -5 3 4 0 bird mod3
+0 planer1 3 71 -4 -4 -4 -4 10 7 fire mod2
+0 gunship2 3 69 -5 -1 -5 -1 9 4 fireball mod3
+0 dragon03 1 55 5 -3 5 -3 1 4 knife mod0
+7 money 2 33 5 -4 5 -4 8 6 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 stone01 0 0 0 -1 3 0 
+5 future01 0 41 0 -1 3 0 
+1 1000
+5 stone02 0 5 0 -1 3 0 
+1 1000
+1 1000
+5 outside 0 5 0 -1 9 0 
+1 1000
+5 arabe 0 4 0 -1 1 0 
+1 1000
+1 1000
+4 invasion 14
+5 tank01 0 6 0 -1 6 0 
+5 stones01 0 17 0 -1 6 0 
+5 outpost1 0 34 0 -1 3 0 
+5 future01 0 49 0 -1 2 0 
+5 arabe 0 66 0 -1 2 0 
+0 gunship2 0 66 -1 4 -1 4 10 1 fireball mod5
+0 planer7 3 71 -4 -1 -4 -1 1 3 laser mod5
+0 little 0 29 1 3 1 3 6 3 laser mod5
+0 lspace01 1 64 1 -3 1 -3 4 8 laser mod6
+0 planer7 3 39 -2 4 -2 4 4 4 cannon mod2
+0 stone7 3 27 -5 2 -5 2 9 2 knife mod1
+0 lwing 3 26 -4 4 -4 4 9 5 knife mod0
+0 lwing 0 55 -1 4 -1 4 5 9 fire mod4
+0 stone3 3 67 -1 -2 -1 -2 4 5 missil mod0
+0 planer2 3 75 -5 -2 -5 -2 9 4 missil mod6
+6 missil mod0 3 53 -1 -4 -1 -4 3 8 
+7 money 1 23 5 5 5 5 2 7 
+1 1000
+5 future02 0 2 0 -1 2 1 
+1 1000
+5 relic 0 4 0 -1 3 0 
+1 1000
+1 1000
+5 badhouse 0 0 0 -1 7 0 
+1 1000
+1 1000
+5 arabe 0 41 0 -1 7 0 
+1 1000
+1 1000
+5 tank01 0 1 0 -1 7 0 
+1 1000
+1 1000
+1 1000
+4 invasion 15
+5 stone01 0 3 0 -1 8 1 
+5 outpost1 0 21 0 -1 5 1 
+5 marte01 0 32 0 -1 8 0 
+5 future02 0 57 0 -1 3 1 
+5 future01 0 69 0 -1 7 0 
+0 gunship5 3 25 -4 1 -4 1 8 4 cannon mod4
+0 stone5 0 40 5 3 5 3 2 9 fireball mod6
+0 gunship5 0 52 -1 3 -1 3 9 8 fire mod1
+0 stone3 1 77 1 -2 1 -2 7 2 fire mod2
+0 gunship1 1 25 3 2 3 2 10 1 laser mod1
+0 rocket 1 78 3 -3 3 -3 3 6 cannon mod5
+0 dragon01 0 62 -2 5 -2 5 10 1 knife mod2
+0 stone7 0 46 1 3 1 3 0 4 bird mod6
+0 planer1 1 35 5 4 5 4 10 8 fire mod5
+0 planer2 1 65 5 -1 5 -1 1 9 fireball mod6
+6 coke mod0 1 34 4 4 4 4 9 5 
+1 1000
+1 1000
+1 1000
+1 1000
+5 relic 0 3 0 -1 2 0 
+1 1000
+1 1000
+1 1000
+1 1000
+5 badhouse 0 8 0 -1 9 0 
+5 marte01 0 47 0 -1 4 0 
+1 1000
+1 1000
+5 future01 0 9 0 -1 5 0 
+1 1000
+4 invasion 16
+5 badhouse 0 3 0 -1 7 0 
+5 badhouse 0 17 0 -1 8 0 
+5 stone01 0 33 0 -1 9 0 
+5 marte01 0 53 0 -1 8 1 
+5 arabe 0 67 0 -1 1 0 
+0 planer4 2 77 -1 -4 -1 -4 5 3 bird mod0
+0 gdragon1 2 39 4 -1 4 -1 8 7 laser mod1
+0 gunship1 3 30 -3 1 -3 1 2 9 laser mod0
+0 gunship2 3 67 -4 -2 -4 -2 4 1 fireball mod1
+0 planer4 3 60 -5 -5 -5 -5 0 9 plasma mod2
+0 planer1 3 43 -4 4 -4 4 5 5 missil mod1
+0 stone5 0 29 1 4 1 4 8 6 missil mod5
+0 threefly 1 74 2 -5 2 -5 5 7 knife mod3
+0 stone2 1 51 2 -2 2 -2 4 9 missil mod1
+0 space001 3 72 -2 -4 -2 -4 10 4 missil mod0
+6 missil mod0 2 70 -4 -5 -4 -5 6 3 
+1 1000
+5 relic 0 4 0 -1 9 0 
+5 future01 0 45 0 -1 2 1 
+1 1000
+1 1000
+5 arabe 0 43 0 -1 6 0 
+1 1000
+1 1000
+1 1000
+5 outpost1 0 7 0 -1 3 1 
+1 1000
+5 future01 0 41 0 -1 3 1 
+1 1000
+1 1000
+5 future02 0 9 0 -1 4 0 
+5 marte01 0 49 0 -1 3 0 
+1 1000
+1 1000
+4 invasion 17
+5 stone02 0 5 0 -1 2 0 
+5 stone02 0 24 0 -1 6 0 
+5 future01 0 40 0 -1 9 0 
+5 arabe 0 50 0 -1 4 0 
+5 arabe 0 69 0 -1 7 0 
+0 stone2 0 53 -5 5 -5 5 8 3 plasma mod6
+0 lspace01 1 60 4 -1 4 -1 3 0 knife mod3
+0 planer4 1 67 3 -2 3 -2 10 6 fireball mod6
+0 stone7 1 43 5 4 5 4 9 7 fireball mod0
+0 lwing 1 74 2 -1 2 -1 4 0 plasma mod4
+0 gunship5 2 69 -4 -4 -4 -4 9 2 fire mod6
+0 planer7 0 32 2 3 2 3 2 6 missil mod0
+0 planer3 3 29 -2 5 -2 5 6 9 laser mod2
+0 gunship5 0 53 -5 1 -5 1 0 7 plasma mod0
+0 little 2 48 5 -1 5 -1 8 5 laser mod6
+1 1000
+5 outside 0 9 0 -1 4 0 
+1 1000
+5 arabe 0 4 0 -1 1 0 
+5 relic 0 48 0 -1 8 0 
+1 1000
+5 outside 0 2 0 -1 3 0 
+1 1000
+5 outside 0 4 0 -1 1 0 
+5 future01 0 40 0 -1 7 0 
+1 1000
+5 relic 0 46 0 -1 5 0 
+1 1000
+1 1000
+5 future02 0 9 0 -1 2 0 
+5 future01 0 45 0 -1 3 1 
+1 1000
+5 stones01 0 5 0 -1 6 0 
+5 arabe 0 43 0 -1 7 0 
+1 1000
+1 1000
+5 tank01 0 3 0 -1 1 0 
+1 1000
+4 invasion 18
+5 tank01 0 3 0 -1 2 0 
+5 outpost1 0 21 0 -1 6 0 
+5 relic 0 40 0 -1 6 0 
+5 arabe 0 50 0 -1 6 0 
+5 marte01 0 66 0 -1 9 0 
+0 gunship2 2 61 -3 -3 -3 -3 8 8 coke mod2
+0 planer7 2 23 2 -2 2 -2 5 4 fireball mod3
+0 gdragon2 1 22 2 3 2 3 10 6 missil mod4
+0 stone1 1 57 4 -3 4 -3 0 1 knife mod4
+0 gunship4 3 56 -5 -5 -5 -5 6 7 fire mod2
+0 stone3 2 59 -3 -3 -3 -3 2 6 knife mod5
+0 gdragon2 0 24 3 5 3 5 4 8 laser mod0
+0 planer2 0 79 -3 4 -3 4 10 4 laser mod6
+0 gunship5 3 44 -5 1 -5 1 8 8 fireball mod6
+0 lspace01 2 37 4 -3 4 -3 9 0 bird mod0
+1 1000
+1 1000
+1 1000
+1 1000
+5 marte01 0 41 0 -1 6 0 
+1 1000
+5 future01 0 7 0 -1 7 0 
+5 outpost1 0 45 0 -1 6 0 
+1 1000
+5 stones01 0 1 0 -1 4 0 
+1 1000
+1 1000
+5 relic 0 3 0 -1 4 0 
+1 1000
+1 1000
+1 1000
+4 invasion 19
+5 stone01 0 3 0 -1 6 0 
+5 tank01 0 21 0 -1 1 0 
+5 stone02 0 35 0 -1 3 0 
+5 marte01 0 56 0 -1 6 0 
+5 stone02 0 66 0 -1 1 1 
+0 stone2 3 73 -2 -3 -2 -3 8 6 bird mod6
+0 planer4 0 23 4 2 4 2 9 7 missil mod6
+0 gunship1 2 39 3 -2 3 -2 6 6 fire mod0
+0 planer6 2 61 -1 -1 -1 -1 4 0 fireball mod5
+0 planer7 1 27 1 4 1 4 1 4 fireball mod3
+0 gunship1 2 68 -1 -5 -1 -5 8 2 bird mod1
+0 bugz 1 46 4 1 4 1 3 1 coke mod2
+0 planer2 3 25 -3 3 -3 3 0 3 coke mod1
+0 little 2 68 -2 -2 -2 -2 6 1 plasma mod5
+0 gunship2 2 57 -2 -4 -2 -4 1 3 knife mod4
+6 cannon mod0 2 37 4 -3 4 -3 4 5 
+1 1000
+1 1000
+5 tank01 0 2 0 -1 1 0 
+1 1000
+5 marte01 0 9 0 -1 2 1 
+1 1000
+5 stone01 0 9 0 -1 6 0 
+1 1000
+5 outpost1 0 40 0 -1 3 0 
+1 1000
+5 stone01 0 5 0 -1 7 0 
+1 1000
+1 1000
+5 outpost1 0 4 0 -1 5 0 
+1 1000
+1 1000
+5 marte01 0 9 0 -1 6 0 
+1 1000
+4 invasion 20
+5 arabe 0 9 0 -1 3 0 
+5 stones01 0 19 0 -1 3 0 
+5 relic 0 40 0 -1 6 0 
+5 outpost1 0 51 0 -1 7 0 
+5 marte01 0 65 0 -1 2 0 
+0 lspace01 1 47 2 2 2 2 10 7 laser mod2
+0 stone3 2 58 -3 -4 -3 -4 9 2 missil mod6
+0 threefly 1 59 2 -4 2 -4 1 9 bird mod5
+0 threefly 0 73 -1 3 -1 3 1 8 laser mod2
+0 lwing 2 79 -4 -4 -4 -4 8 8 bird mod4
+0 planer4 0 59 -1 2 -1 2 6 0 laser mod3
+0 stone1 3 61 -4 -2 -4 -2 1 1 cannon mod1
+0 stone4 1 73 5 -5 5 -5 8 7 knife mod6
+0 lspace01 1 48 1 2 1 2 8 8 missil mod0
+0 rocket 2 45 1 -1 1 -1 8 8 laser mod5
+7 energy 0 27 4 3 4 3 7 3 
+1 1000
+5 arabe 0 9 0 -1 5 0 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 marte01 0 6 0 -1 4 1 
+1 1000
+1 1000
+1 1000
+5 outpost1 0 46 0 -1 9 0 
+1 1000
+5 future02 0 5 0 -1 1 0 
+1 1000
+4 invasion 21
+5 outpost1 0 0 0 -1 2 1 
+5 future02 0 21 0 -1 7 0 
+5 stones01 0 33 0 -1 2 0 
+5 tank01 0 54 0 -1 7 0 
+5 tank01 0 70 0 -1 6 0 
+0 stone5 0 50 5 3 5 3 5 6 coke mod4
+0 planer2 2 34 3 -2 3 -2 7 7 laser mod5
+0 heavy 2 49 3 -5 3 -5 3 2 laser mod0
+0 dragon01 1 44 1 2 1 2 6 3 fire mod0
+0 dragon03 2 63 -1 -2 -1 -2 8 3 laser mod5
+0 little 1 41 2 2 2 2 3 9 fire mod2
+0 planer5 1 70 3 -2 3 -2 3 3 laser mod3
+0 planer1 2 27 3 -5 3 -5 1 7 missil mod6
+0 gunship2 3 76 -1 -1 -1 -1 7 5 plasma mod5
+0 stone2 0 29 1 4 1 4 4 9 fireball mod6
+1 1000
+1 1000
+5 marte01 0 1 0 -1 3 0 
+1 1000
+5 stone01 0 6 0 -1 6 0 
+5 future01 0 46 0 -1 4 0 
+1 1000
+5 marte01 0 7 0 -1 5 0 
+5 badhouse 0 49 0 -1 3 0 
+1 1000
+1 1000
+5 stone01 0 2 0 -1 8 0 
+5 arabe 0 49 0 -1 9 0 
+1 1000
+1 1000
+1 1000
+5 arabe 0 4 0 -1 2 0 
+5 stone01 0 44 0 -1 7 0 
+1 1000
+5 marte01 0 42 0 -1 7 1 
+1 1000
+4 invasion 22
+5 arabe 0 1 0 -1 3 0 
+5 relic 0 18 0 -1 8 0 
+5 arabe 0 40 0 -1 2 0 
+5 outside 0 53 0 -1 1 0 
+5 badhouse 0 67 0 -1 1 0 
+0 stone1 1 41 5 1 5 1 2 4 missil mod5
+0 gunship4 2 59 -3 -5 -3 -5 6 0 coke mod5
+0 stone1 0 47 4 4 4 4 2 0 coke mod2
+0 lwing 0 24 4 5 4 5 3 6 laser mod3
+0 gunship1 1 35 2 4 2 4 8 1 laser mod3
+0 stone4 0 57 -5 5 -5 5 1 0 fireball mod2
+0 planer1 3 63 -1 -2 -1 -2 4 9 knife mod1
+0 stone5 1 56 5 -3 5 -3 7 0 plasma mod2
+0 gunship2 2 37 4 -4 4 -4 2 1 cannon mod1
+0 truck1 2 48 1 -5 1 -5 4 5 knife mod0
+6 coke mod0 2 54 -1 -4 -1 -4 0 5 
+1 1000
+5 badhouse 0 0 0 -1 4 0 
+1 1000
+1 1000
+5 stone02 0 3 0 -1 2 0 
+1 1000
+1 1000
+1 1000
+1 1000
+5 badhouse 0 5 0 -1 5 0 
+1 1000
+1 1000
+1 1000
+1 1000
+4 invasion 23
+5 relic 0 6 0 -1 7 0 
+5 marte01 0 22 0 -1 3 0 
+5 stone01 0 35 0 -1 1 0 
+5 tank01 0 51 0 -1 5 0 
+5 outpost1 0 73 0 -1 3 0 
+0 stone4 3 36 -1 3 -1 3 7 7 knife mod2
+0 dragon01 3 46 -3 4 -3 4 4 2 knife mod5
+0 space001 3 41 -4 5 -4 5 10 5 fire mod3
+0 planer5 0 64 -2 5 -2 5 8 1 laser mod3
+0 space001 3 71 -2 -2 -2 -2 4 8 knife mod6
+0 stone7 1 42 4 4 4 4 5 4 knife mod6
+0 gunship4 3 33 -4 4 -4 4 8 4 coke mod4
+0 threefly 1 40 1 3 1 3 9 6 plasma mod0
+0 planer7 2 42 3 -1 3 -1 7 6 laser mod4
+0 stone1 0 48 4 4 4 4 4 8 coke mod1
+7 energy2 2 23 4 -2 4 -2 5 9 
+1 1000
+1 1000
+1 1000
+1 1000
+5 arabe 0 9 0 -1 8 0 
+1 1000
+5 outpost1 0 7 0 -1 9 0 
+1 1000
+1 1000
+1 1000
+5 arabe 0 40 0 -1 2 0 
+1 1000
+1 1000
+1 1000
+4 invasion 24
+5 arabe 0 6 0 -1 1 0 
+5 badhouse 0 24 0 -1 8 0 
+5 stone01 0 33 0 -1 5 1 
+5 outpost1 0 55 0 -1 4 0 
+5 stone02 0 66 0 -1 1 0 
+0 gdragon1 1 60 2 -5 2 -5 2 9 cannon mod4
+0 lspace01 3 64 -5 -3 -5 -3 10 5 fire mod4
+0 planer1 3 79 -1 -2 -1 -2 3 1 knife mod2
+0 gunship4 2 73 -2 -5 -2 -5 2 9 fire mod5
+0 gunship3 3 39 -5 5 -5 5 8 5 laser mod1
+0 dragon02 2 34 5 -5 5 -5 3 0 coke mod3
+0 heavy 1 55 3 -4 3 -4 0 5 plasma mod2
+0 lspace01 3 41 -3 3 -3 3 8 2 cannon mod0
+0 rocket 3 70 -4 -1 -4 -1 6 9 cannon mod4
+0 planer1 3 79 -4 -5 -4 -5 0 8 knife mod1
+6 plasma mod0 2 43 1 -5 1 -5 9 3 
+1 1000
+1 1000
+5 stone01 0 3 0 -1 5 0 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 stone01 0 46 0 -1 2 0 
+1 1000
+5 stone01 0 5 0 -1 3 0 
+1 1000
+1 1000
+5 stones01 0 0 0 -1 6 0 
+1 1000
+4 invasion 25
+5 badhouse 0 6 0 -1 5 0 
+5 outside 0 24 0 -1 3 0 
+5 outpost1 0 34 0 -1 9 0 
+5 arabe 0 49 0 -1 4 0 
+5 outpost1 0 65 0 -1 7 0 
+0 redcar01 0 22 5 4 5 4 3 6 plasma mod2
+0 stone1 2 25 5 -4 5 -4 6 4 missil mod4
+0 gunship2 1 76 2 -2 2 -2 6 8 knife mod3
+0 stone3 0 30 5 2 5 2 8 5 cannon mod6
+0 lwing 1 39 2 5 2 5 4 5 laser mod1
+0 planer3 0 66 -2 3 -2 3 3 0 cannon mod1
+0 planer4 1 45 5 3 5 3 8 4 knife mod3
+0 little 2 50 5 -4 5 -4 10 7 fire mod1
+0 dragon02 1 53 5 -5 5 -5 4 5 bird mod2
+0 heavy 0 37 4 3 4 3 0 1 knife mod6
+1 1000
+1 1000
+5 tank01 0 5 0 -1 5 1 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 tank01 0 6 0 -1 9 1 
+1 1000
+5 stone01 0 44 0 -1 3 0 
+1 1000
+5 tank01 0 6 0 -1 7 0 
+1 1000
+1 1000
+4 invasion 26
+5 stones01 0 5 0 -1 6 0 
+5 stones01 0 21 0 -1 3 0 
+5 relic 0 38 0 -1 3 0 
+5 stone02 0 53 0 -1 8 0 
+5 badhouse 0 66 0 -1 5 1 
+0 gunship3 2 51 -4 -4 -4 -4 8 0 laser mod2
+0 stone1 3 73 -5 -1 -5 -1 5 0 fire mod0
+0 redcar01 1 61 3 -2 3 -2 3 7 knife mod2
+0 planer1 0 45 3 2 3 2 2 9 knife mod0
+0 stone7 2 61 -4 -5 -4 -5 3 3 laser mod0
+0 planer4 2 30 2 -3 2 -3 2 9 fire mod4
+0 planer4 1 59 5 -2 5 -2 8 4 fire mod3
+0 stone5 2 58 -2 -4 -2 -4 9 9 laser mod0
+0 planer1 2 29 2 -3 2 -3 7 9 bird mod6
+0 stone6 0 49 5 5 5 5 3 6 plasma mod2
+1 1000
+1 1000
+1 1000
+5 arabe 0 7 0 -1 5 0 
+1 1000
+1 1000
+1 1000
+5 future01 0 3 0 -1 6 1 
+1 1000
+1 1000
+1 1000
+5 stone02 0 5 0 -1 8 0 
+1 1000
+1 1000
+4 invasion 27
+5 badhouse 0 3 0 -1 9 0 
+5 relic 0 21 0 -1 5 0 
+5 stones01 0 35 0 -1 8 0 
+5 relic 0 56 0 -1 9 0 
+5 relic 0 66 0 -1 9 1 
+0 stone3 2 72 -3 -2 -3 -2 0 4 cannon mod0
+0 stone3 3 75 -1 -5 -1 -5 0 4 laser mod5
+0 space001 0 64 -1 4 -1 4 7 9 cannon mod5
+0 gunship1 3 20 -4 3 -4 3 10 1 laser mod3
+0 gunship4 2 56 -5 -1 -5 -1 0 8 coke mod5
+0 dragon03 0 73 -1 1 -1 1 3 6 fireball mod5
+0 gunship5 3 46 -1 2 -1 2 5 2 cannon mod4
+0 stone3 2 54 -1 -3 -1 -3 6 5 plasma mod0
+0 stone1 2 73 -1 -4 -1 -4 2 2 laser mod2
+0 lspace01 0 44 1 3 1 3 4 1 fire mod0
+1 1000
+5 stone01 0 0 0 -1 8 0 
+1 1000
+5 future01 0 6 0 -1 3 1 
+5 stones01 0 45 0 -1 2 0 
+1 1000
+1 1000
+5 arabe 0 1 0 -1 6 1 
+1 1000
+5 stone02 0 3 0 -1 2 0 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 outside 0 9 0 -1 1 0 
+5 future02 0 40 0 -1 1 0 
+1 1000
+4 invasion 28
+5 future01 0 9 0 -1 7 0 
+5 stones01 0 18 0 -1 1 0 
+5 badhouse 0 33 0 -1 9 0 
+5 outside 0 53 0 -1 1 0 
+5 badhouse 0 70 0 -1 9 0 
+0 truck1 2 38 5 -5 5 -5 8 9 knife mod6
+0 stone2 1 28 2 3 2 3 2 0 fireball mod0
+0 truck1 2 20 2 -5 2 -5 5 5 missil mod1
+0 gdragon2 1 56 1 -2 1 -2 0 3 plasma mod2
+0 planer1 3 38 -2 2 -2 2 7 3 missil mod3
+0 threefly 1 30 3 1 3 1 7 3 cannon mod3
+0 gdragon2 0 26 2 1 2 1 5 2 bird mod0
+0 stone6 2 55 -1 -3 -1 -3 9 1 fire mod0
+0 gunship1 0 39 1 4 1 4 3 3 missil mod1
+0 dragon02 0 47 5 4 5 4 8 5 laser mod6
+6 laser mod0 2 22 1 -4 1 -4 7 7 
+1 1000
+1 1000
+5 badhouse 0 6 0 -1 4 0 
+5 stones01 0 48 0 -1 4 0 
+1 1000
+1 1000
+1 1000
+5 future02 0 4 0 -1 7 0 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 arabe 0 42 0 -1 7 0 
+1 1000
+4 invasion 29
+5 future02 0 9 0 -1 1 0 
+5 future01 0 18 0 -1 7 0 
+5 stone01 0 33 0 -1 6 0 
+5 future01 0 54 0 -1 5 0 
+5 future01 0 65 0 -1 3 0 
+0 lspace01 1 38 4 4 4 4 0 1 plasma mod6
+0 gunship4 1 62 3 -5 3 -5 8 5 knife mod5
+0 stone1 1 59 1 -4 1 -4 6 3 laser mod6
+0 planer6 0 64 -1 1 -1 1 5 8 fireball mod6
+0 lwing 3 24 -1 2 -1 2 1 8 knife mod4
+0 heavy 0 73 -2 2 -2 2 0 3 plasma mod6
+0 bugz 2 70 -5 -3 -5 -3 9 8 coke mod3
+0 bugz 0 49 1 2 1 2 7 9 bird mod4
+0 stone7 2 74 -1 -3 -1 -3 0 1 laser mod3
+0 planer5 2 63 -1 -4 -1 -4 9 3 bird mod0
+7 energy 3 33 -3 1 -3 1 4 5 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 badhouse 0 2 0 -1 9 0 
+1 1000
+1 1000
+4 invasion 30
+5 stone02 0 7 0 -1 8 0 
+5 outside 0 25 0 -1 3 1 
+5 future01 0 34 0 -1 8 0 
+5 outpost1 0 53 0 -1 1 0 
+5 marte01 0 73 0 -1 9 0 
+0 bugz 1 36 2 3 2 3 6 2 laser mod1
+0 little 1 24 1 2 1 2 7 4 knife mod4
+0 stone5 1 21 2 2 2 2 4 6 cannon mod4
+0 gunship5 2 74 -4 -3 -4 -3 7 1 bird mod4
+0 planer5 1 26 3 4 3 4 9 1 fire mod3
+0 planer3 0 48 2 3 2 3 10 6 laser mod1
+0 dragon02 3 23 -4 4 -4 4 7 0 laser mod0
+0 gdragon1 1 46 2 1 2 1 10 6 fire mod5
+0 dragon02 3 75 -5 -2 -5 -2 0 4 laser mod6
+0 gunship3 1 79 4 -1 4 -1 1 2 cannon mod6
+6 cannon mod0 0 28 4 4 4 4 1 3 
+1 1000
+1 1000
+5 outpost1 0 6 0 -1 1 0 
+1 1000
+1 1000
+1 1000
+1 1000
+5 relic 0 44 0 -1 1 0 
+1 1000
+1 1000
+5 outside 0 0 0 -1 3 0 
+1 1000
+5 badhouse 0 5 0 -1 8 1 
+1 1000
+1 1000
+4 invasion 31
+5 outpost1 0 5 0 -1 6 0 
+5 badhouse 0 19 0 -1 2 0 
+5 arabe 0 35 0 -1 6 0 
+5 tank01 0 49 0 -1 2 0 
+5 outpost1 0 71 0 -1 2 0 
+0 stone3 2 38 2 -2 2 -2 7 2 laser mod2
+0 stone3 2 46 4 -4 4 -4 6 7 plasma mod5
+0 heavy 3 59 -3 -5 -3 -5 7 3 coke mod3
+0 gunship2 2 49 3 -5 3 -5 2 6 laser mod3
+0 stone3 0 45 1 4 1 4 2 9 laser mod1
+0 planer2 0 26 1 5 1 5 6 9 laser mod1
+0 gunship5 1 71 2 -2 2 -2 10 4 knife mod2
+0 stone7 0 54 -3 4 -3 4 9 8 missil mod6
+0 bugz 1 57 2 -5 2 -5 5 4 coke mod3
+0 threefly 1 70 1 -3 1 -3 1 8 plasma mod1
+6 bird mod0 1 57 3 -4 3 -4 3 0 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 badhouse 0 1 0 -1 9 0 
+1 1000
+5 future01 0 9 0 -1 9 0 
+1 1000
+5 relic 0 6 0 -1 8 0 
+5 marte01 0 48 0 -1 6 0 
+1 1000
+1 1000
+5 badhouse 0 4 0 -1 9 0 
+1 1000
+4 invasion 32
+5 tank01 0 0 0 -1 1 0 
+5 tank01 0 16 0 -1 6 1 
+5 arabe 0 41 0 -1 7 0 
+5 stone01 0 56 0 -1 5 1 
+5 tank01 0 70 0 -1 9 0 
+0 dragon02 0 58 -3 1 -3 1 2 6 laser mod3
+0 planer6 0 46 1 2 1 2 9 1 plasma mod4
+0 heavy 1 28 3 4 3 4 5 4 bird mod5
+0 gdragon2 3 38 -1 3 -1 3 7 9 knife mod4
+0 lspace01 1 28 2 1 2 1 1 8 knife mod4
+0 stone1 0 34 5 1 5 1 9 7 missil mod6
+0 lspace01 2 56 -5 -3 -5 -3 7 3 knife mod2
+0 heavy 1 73 5 -4 5 -4 3 8 knife mod4
+0 dragon03 2 48 3 -5 3 -5 5 3 coke mod3
+0 gunship5 2 50 1 -5 1 -5 1 7 missil mod0
+1 1000
+1 1000
+5 future01 0 8 0 -1 9 0 
+1 1000
+1 1000
+1 1000
+1 1000
+5 relic 0 9 0 -1 4 0 
+1 1000
+5 marte01 0 3 0 -1 9 0 
+5 outside 0 43 0 -1 6 0 
+1 1000
+5 future02 0 48 0 -1 9 1 
+1 1000
+5 stones01 0 7 0 -1 7 0 
+5 marte01 0 43 0 -1 9 0 
+1 1000
+1 1000
+4 invasion 33
+5 outpost1 0 0 0 -1 2 0 
+5 future01 0 16 0 -1 1 0 
+5 future01 0 37 0 -1 2 0 
+5 arabe 0 51 0 -1 9 0 
+5 stone02 0 66 0 -1 3 0 
+0 planer2 1 47 2 5 2 5 6 5 coke mod1
+0 lwing 0 31 4 5 4 5 2 0 plasma mod0
+0 planer2 0 47 1 1 1 1 5 6 knife mod1
+0 planer3 1 28 4 4 4 4 1 9 cannon mod4
+0 heavy 0 78 -3 3 -3 3 7 8 plasma mod0
+0 stone2 1 72 4 -2 4 -2 6 3 laser mod4
+0 space001 2 30 5 -2 5 -2 7 6 laser mod4
+0 stone7 0 49 4 1 4 1 10 3 bird mod6
+0 rocket 0 64 -4 1 -4 1 7 6 knife mod4
+0 gunship4 0 68 -5 3 -5 3 2 0 laser mod2
+1 1000
+1 1000
+1 1000
+1 1000
+5 future01 0 2 0 -1 6 0 
+5 stone01 0 41 0 -1 4 1 
+1 1000
+1 1000
+5 relic 0 8 0 -1 7 0 
+1 1000
+1 1000
+1 1000
+5 future01 0 0 0 -1 2 0 
+1 1000
+5 future02 0 9 0 -1 9 0 
+5 future01 0 46 0 -1 5 0 
+1 1000
+4 invasion 34
+5 stone01 0 1 0 -1 9 0 
+5 outside 0 18 0 -1 6 0 
+5 arabe 0 33 0 -1 1 0 
+5 stone02 0 49 0 -1 4 1 
+5 future02 0 68 0 -1 8 0 
+0 dragon02 3 71 -4 -2 -4 -2 3 6 fireball mod5
+0 gunship5 1 30 2 2 2 2 9 3 cannon mod3
+0 planer4 1 31 2 1 2 1 0 6 bird mod4
+0 stone4 1 63 4 -1 4 -1 4 7 knife mod1
+0 stone1 3 53 -5 -5 -5 -5 9 2 missil mod3
+0 dragon01 0 32 5 1 5 1 5 4 cannon mod4
+0 planer5 2 74 -1 -1 -1 -1 7 1 bird mod1
+0 stone4 3 65 -3 -4 -3 -4 6 6 fire mod2
+0 space001 1 59 1 -1 1 -1 7 2 coke mod1
+0 stone1 0 45 5 2 5 2 5 7 fireball mod5
+7 life 3 55 -2 -4 -2 -4 7 5 
+1 1000
+5 stone02 0 8 0 -1 3 0 
+1 1000
+1 1000
+1 1000
+5 marte01 0 9 0 -1 9 1 
+1 1000
+5 stone02 0 9 0 -1 4 0 
+1 1000
+5 marte01 0 43 0 -1 3 0 
+1 1000
+1 1000
+5 outside 0 9 0 -1 5 1 
+1 1000
+1 1000
+1 1000
+4 invasion 35
+5 tank01 0 8 0 -1 2 0 
+5 future02 0 18 0 -1 8 0 
+5 badhouse 0 41 0 -1 8 0 
+5 outpost1 0 55 0 -1 3 0 
+5 marte01 0 72 0 -1 3 1 
+0 little 0 62 -1 3 -1 3 3 6 knife mod6
+0 gunship3 2 52 -2 -1 -2 -1 1 9 cannon mod2
+0 gunship3 2 69 -5 -4 -5 -4 3 2 bird mod0
+0 gdragon1 2 75 -2 -1 -2 -1 7 7 fireball mod0
+0 gunship5 1 43 2 4 2 4 2 7 bird mod4
+0 stone2 0 59 -1 5 -1 5 5 9 cannon mod4
+0 gunship5 3 66 -1 -5 -1 -5 1 7 fireball mod1
+0 dragon03 0 65 -4 5 -4 5 5 1 missil mod6
+0 space001 2 28 3 -3 3 -3 4 4 fire mod6
+0 gunship3 2 75 -5 -1 -5 -1 8 2 fire mod5
+7 energy 2 42 5 -5 5 -5 1 4 
+1 1000
+5 stone02 0 5 0 -1 4 0 
+1 1000
+1 1000
+1 1000
+1 1000
+5 future02 0 4 0 -1 1 0 
+1 1000
+1 1000
+5 tank01 0 48 0 -1 2 0 
+1 1000
+1 1000
+5 stones01 0 41 0 -1 2 1 
+1 1000
+1 1000
+4 invasion 36
+5 stone02 0 3 0 -1 9 0 
+5 marte01 0 23 0 -1 4 0 
+5 arabe 0 32 0 -1 5 0 
+5 badhouse 0 49 0 -1 5 0 
+5 arabe 0 67 0 -1 9 0 
+0 planer1 0 28 1 3 1 3 0 8 laser mod4
+0 gunship1 1 43 3 3 3 3 0 7 cannon mod4
+0 stone5 3 28 -5 3 -5 3 6 8 missil mod2
+0 stone7 1 23 4 4 4 4 6 9 missil mod6
+0 gunship1 3 77 -5 -1 -5 -1 3 2 missil mod4
+0 stone6 0 73 -2 3 -2 3 8 8 knife mod3
+0 little 2 61 -3 -2 -3 -2 3 8 missil mod2
+0 stone4 2 33 3 -5 3 -5 9 2 cannon mod3
+0 planer2 2 57 -5 -5 -5 -5 9 2 missil mod6
+0 planer4 0 61 -5 3 -5 3 1 1 laser mod4
+1 1000
+5 stone01 0 3 0 -1 4 0 
+1 1000
+5 future01 0 4 0 -1 4 0 
+1 1000
+1 1000
+1 1000
+1 1000
+5 future02 0 0 0 -1 6 0 
+1 1000
+5 tank01 0 7 0 -1 7 0 
+1 1000
+1 1000
+1 1000
+1 1000
+4 invasion 37
+5 stone01 0 6 0 -1 1 0 
+5 stone01 0 21 0 -1 1 0 
+5 relic 0 41 0 -1 4 0 
+5 future01 0 51 0 -1 4 0 
+5 stone01 0 68 0 -1 2 0 
+0 dragon02 2 23 4 -4 4 -4 10 4 fire mod6
+0 gunship2 2 42 4 -5 4 -5 8 3 fire mod5
+0 gunship1 2 67 -2 -5 -2 -5 3 2 bird mod5
+0 little 0 61 -4 2 -4 2 2 9 knife mod1
+0 space001 3 44 -3 5 -3 5 2 9 coke mod5
+0 planer2 2 52 -2 -5 -2 -5 0 2 laser mod6
+0 gunship2 3 30 -4 3 -4 3 2 3 fireball mod3
+0 dragon01 3 51 -1 -1 -1 -1 6 3 missil mod5
+0 dragon02 0 32 2 2 2 2 6 1 cannon mod2
+0 stone5 3 50 -4 4 -4 4 9 1 bird mod1
+6 plasma mod0 2 31 3 -4 3 -4 10 3 
+1 1000
+1 1000
+1 1000
+5 arabe 0 1 0 -1 7 0 
+1 1000
+5 future02 0 42 0 -1 1 0 
+1 1000
+1 1000
+1 1000
+5 arabe 0 44 0 -1 3 0 
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+1 1000
+5 arabe 0 5 0 -1 2 0 
+5 marte01 0 42 0 -1 8 0 
+1 1000
+5 future02 0 1 0 -1 9 0 
+1 1000
+1 1000
+1 1000
+5 future02 0 4 0 -1 6 0 
+1 1000
+5 outside 0 3 0 -1 8 0 
+1 1000
+1 1000
+1 1000
+4 invasion 39
+2
+4 Congratulations!
+1 2000
+4 You reached the end of the level
+1 3000

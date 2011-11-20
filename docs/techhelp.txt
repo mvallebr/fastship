@@ -1,0 +1,12 @@
+Para converter uma imagem com fundo preto para uma imagem com fundo
+transparente, basta usar o seguinte comando:
+convert -verbose -type TrueColorMatte -transparent black FILE1 FILE2
+
+FILE1 é uma imagem com fundo preto
+FILE2 é a imagem a ser criada, sua extensão deve suportar transparência.
+
+
+-----
+
+padrões de tiros, a usar no futuro:
+http://www.asahi-net.or.jp/~Cs8K-Cyu/bulletml/index_e.html

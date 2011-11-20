@@ -1,0 +1,216 @@
+/////////////////////////////////////////////////////////////////////////////
+	Introdução
+///
+Nome do jogo: 	FAST SHIP
+Engine:		Jogo de naves espaciais com scroll vertical.
+Plataforma:	Linux e ruindows
+Biblioteca:	Allegro
+
+
+Quando o usuário inicia o jogo, o programa carrega uma animação em fli, já
+carrega o primeiro nível e habilita as funções de teclado, ou seja, o jogo já
+começa.
+
+/////////////////////////////////////////////////////////////////////////////
+	Input
+///
+	O jogador pode usar os seguintes comandos:
+	Seta esquerda:		Leva a nave para a esquerda
+	Seta direita:   	Leva a nave para a direita
+	Seta acima:    		Leva a nave para cima
+	Seta abaixo:    	Leva a nave para baixo
+	X:			Aumenta velocidade
+	Z:			Diminui velocidade
+	ESC:			Saí do nível
+	Q:			Sai do programa
+	ESPAÇO:			Atira arma corrente
+
+/////////////////////////////////////////////////////////////////////////////
+	Resolução
+///
+	O fundo é uma imagem que é sempre desenhada lado a lado. Objetos
+contidos no nível são colocados de vez em sempre. A resolução da tela é de
+640x480.
+	Quando um sprite sai da tela, ele é destruido da memória. O jogador
+	não pode sair da tela. 
+	
+	
+/////////////////////////////////////////////////////////////////////////////
+	Colisões
+///
+	Tiros colidem com objetos. Construções podem ou não colidir com o
+	jogador, mas nunca com inimigos. Sempre que uma contrução, player (o
+	sprite do jogador), tiro ou inimigo colidem com algo, sua energia é
+	diminuida o tanto que o objeto colidido tinha. Dois dois objetos de
+	colisão, aquele que tiver energia menor que zero será destruido.
+		Sempre que um objeto é destruido, é colocado um sprite
+	explosão no seu lugar. Esse objeto simplesmente mostra a animação de
+	uma explosão e sai.
+
+/////////////////////////////////////////////////////////////////////////////
+	Níveis e Sprites
+///
+O jogo contém vários níveis. Cada nível é guardado em um arquivo texto com o
+seguinte formato:
+/*****************************************************************************/
+[Header do arquivo - primeira linha]
+[tipo de ítem] [argumentos do ítem]
+[tipo de ítem] [argumentos do ítem]
+[tipo de ítem] [argumentos do ítem]
+[tipo de ítem] [argumentos do ítem]
+[tipo de ítem] [argumentos do ítem]
+...
+/*****************************************************************************/
+O header guarda ps seguintes informações:
+Linha: 	| Informação
+--------|-----------------------------
+0	| versão do arquivo
+1 | Largura do nível, pode ser maior que a largura da tela
+2 | nome da imagem default de fundo, dentro de images/grounds
+3 | nome do tipo default, dentro de images/guns
+
+Todos os arquivos referenciados no nível devem estar no mesmo diretório que o
+nível.
+Nas outras linhas, o [tipo de item] pode ser um dos seguintes Números:
+OBS: Se [tipo de item] for cerquilha (#), a linha será considerada comentário,
+isto é, será ignorada.
+------------------------------------------------------------------------------
+Número:		0
+Significado:	Aparece inimigo
+Argumentos:
+	Nome do objeto: identificado unívoco do objeto
+	Tipo de inimigo: nome do diretório dentro de images/enemy que contem a animação correspondente
+	Lado da tela:	Inteiro (0=acima,1=esquerda,2=abaixo,3=direita)
+	Posição:	Inteiro de 0 até 100%, indicando em que lugar do lado
+			o inimigo vai aparecer
+	Direção:	Dois inteiros, x e y, de (-10 até 10)  indicando para
+			onde o inimigo aponta.
+	Velocidade:	(pixels) x e y com que aparece (dois números de -5 até 5)
+	Aceleração:	Com ID correspondente na lista de acelerações
+	Energia:	Inteiro que corresponde à energia do inimigo
+	IDTiro: 	Inteiro correspondente ao ID de um tipo de tiro
+	IDModificador:  ID correspondente ao ID de um modific. de tiro
+------------------------------------------------------------------------------
+Número:		1
+Significado:	Espera tempo antes de ir para próximo ítem
+Argumentos:
+	MS:	Número de milisegundos a serem esperados
+------------------------------------------------------------------------------
+Número:		2
+Significado:	Espera tela vazia	
+	Só pula para próximo ítem quando não houverem mais objetos na tela
+Argumentos:	
+	Nome do objeto: identificado unívoco do objeto
+------------------------------------------------------------------------------
+Número:		3
+Significado:	Troca arquivo de fundo
+Argumentos:		
+	Nome do objeto: identificado unívoco do objeto
+	id fo fundo, dentro de images/grounds
+------------------------------------------------------------------------------
+Número:		4
+Significado:	Pausa e exibe mensagem. Aguardo pressionamento de tecla.
+Argumentos:	
+	Nome do objeto: identificado unívoco do objeto
+	String de uma linha com a mensagem.
+------------------------------------------------------------------------------
+Número:		5
+Significado:	Aparece construção no lado de cima da tela
+Argumentos:
+	Nome do objeto: identificado unívoco do objeto
+	Tipo de objeto: nome do diretório dentro de images/construction que contem a animação correspondente
+	Lado da tela:	Inteiro (0=acima,1=esquerda,2=abaixo,3=direita)
+	Posição:	Inteiro de 0 até 100%, indicando em que lugar do lado
+			o inimigo vai aparecer
+	Direção:	Dois inteiros, x e y, de (-10 até 10)  indicando para
+			onde a construção aponta.
+	Energia:	Energia que o objeto tem
+	Colide:		Deve ser 0 ou 1. Qualquer número diferente de 0 será
+			interpretado como 1. Indica se as naves podem colidir
+			com essa construção ou não.
+-----------------------------------------------------------------------------
+Número:		6
+Significado:	Bônus de troca de tiro
+Argumentos:
+	Nome do objeto: identificado unívoco do objeto
+	IDTiro: 	nome do diretório dentro de images/guns que contem a animação correspondente
+	IDModificador:  ID correspondente ao ID de um modific. de tiro
+	Lado da tela:	Inteiro (0=acima,1=esquerda,2=abaixo,3=direita)
+	Posição:	Inteiro de 0 até 100%, indicando em que lugar do lado
+			o bônus vai aparecer
+	Direção:	Dois inteiros, x e y, de (-10 até 10)  indicando para
+			onde o bônus aponta.
+	Velocidade:	(pixels) x e y com que aparece (dois números de -5 até 5)
+	Aceleração:	Com ID correspondente na lista de acelerações
+	Energia:	Energia que o objeto tem
+Descrição:	Objeto que corresponder a uma troca de tiro.
+-----------------------------------------------------------------------------
+Número:		7
+Significado:	Bônus da lista de bônus
+Argumentos:
+	Nome do objeto: identificado unívoco do objeto
+	IDBonus: 	nome do diretório dentro de images/bonus que contem a animação correspondente
+	Lado da tela:	Inteiro (0=acima,1=esquerda,2=abaixo,3=direita)
+	Posição:	Inteiro de 0 até 100%, indicando em que lugar do lado
+			o bônus vai aparecer
+	Direção:	Dois inteiros, x e y, de (-10 até 10)  indicando para
+			onde o bônus aponta.
+	Velocidade:	(pixels) x e y com que aparece (dois números de -5 até 5)
+	Aceleração:	Com ID correspondente na lista de acelerações
+	Energia:	Energia que o objeto tem
+Descrição:	Objeto que corresponder a um bônus da lista de bônus.
+
+
+/**************************************************************************/
+Lista de Modificadores de tiros:
+//Imagem: 40x40
+-----------------------------------------------------------------------------
+ID:		0
+Nome:		Unidirecional
+Imagem:		mod0
+Descrição:	Atira somente para cima
+-----------------------------------------------------------------------------
+ID:		1
+Nome:		Disperso 4
+Imagem:		mod1
+Descrição:	Atira para cima, para baixo e para os lados
+-----------------------------------------------------------------------------
+ID:		2
+Nome:		Disperso 8
+Imagem:		mod2
+Descrição:	Atira para cima, para baixo e para os lados e em 45g
+-----------------------------------------------------------------------------
+ID:		3
+Nome:		Disperso triângulo
+Imagem:		mod3
+Descrição:	Atira para cima: reto, 45g e -45g
+-----------------------------------------------------------------------------
+ID:		4
+Nome:		Disperso triângulo duplo
+Imagem:		mod4
+Descrição:	Atira para cima: reto, 45g e -45g e para baixo
+-----------------------------------------------------------------------------
+ID:		5
+Nome:		Teleguiado
+Imagem:		mod5
+Descrição:	Busca inimigo mais próximo
+-----------------------------------------------------------------------------
+ID:		6
+Nome:		Disperso triângulo duplo teleguiado 
+Imagem:		mod6
+Descrição:	4 tiros que buscam inimigo mais próximo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
